@@ -3,8 +3,8 @@
 > Victoria Mitsubishi is a  dealership in Victoria. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/): 130 vehicles, updated regularly
-- [Inventory feed](https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+- [Used vehicles](https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/): 125 vehicles, updated regularly
+- [Inventory feed](https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/inventory.json): structured JSON, index of all vehicles with VIN, year, make, model and price; full details are on each vehicle page
 
 ## Resources
 - [Dealership information](https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/): business identity, contact and hours
