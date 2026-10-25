@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Mitsubishi",
-  "generated_at": "2026-10-25T15:01:42",
-  "vehicle_count": 125,
+  "generated_at": "2026-10-25T15:52:03",
+  "vehicle_count": 127,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -889,17 +889,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota YARIS HATCHBACK",
-      "vin": "VNKKTUD34JA089845",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/5c78ce8de9ac.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "YARIS HATCHBACK",
-      "condition": "used",
-      "price": 18998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Dodge GRAND CARAVAN",
       "vin": "2C4RDGBG5KR635528",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/05df8be59e9c.html",
@@ -933,6 +922,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 GMC ACADIA",
+      "vin": "1GKKNXLS8NZ154866",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/6f4082848a68.html",
+      "year": 2022,
+      "make": "GMC",
+      "model": "ACADIA",
+      "condition": "used",
+      "price": 38498.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Mitsubishi OUTLANDER",
       "vin": "JA4J4VA81NZ612909",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/071e2f1bb0ff.html",
@@ -955,14 +955,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mitsubishi ECLIPSE CROSS",
-      "vin": "JA4ATVAA0PZ608794",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/7b14ec6fc23b.html",
+      "name": "2023 Mitsubishi RVR",
+      "vin": "JA4AJVAW0PU602346",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/284141f00720.html",
       "year": 2023,
       "make": "Mitsubishi",
-      "model": "ECLIPSE CROSS",
+      "model": "RVR",
       "condition": "used",
-      "price": 19998.0,
+      "price": 25998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mitsubishi OUTLANDER PHEV",
+      "vin": "JA4T5UA92PZ605592",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/024008c9041e.html",
+      "year": 2023,
+      "make": "Mitsubishi",
+      "model": "OUTLANDER PHEV",
+      "condition": "used",
+      "price": 36998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mitsubishi OUTLANDER",
+      "vin": "JA4J4VA80RZ610901",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/c52beae42f5e.html",
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "OUTLANDER",
+      "condition": "used",
+      "price": 33998.0,
       "price_currency": "CAD"
     },
     {
@@ -1039,7 +1061,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 21998.0,
+      "price": 22498.0,
       "price_currency": "CAD"
     },
     {
