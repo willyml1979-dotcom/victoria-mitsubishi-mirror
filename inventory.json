@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Mitsubishi",
-  "generated_at": "2026-10-25T15:52:03",
-  "vehicle_count": 127,
+  "generated_at": "2026-10-26T00:42:38",
+  "vehicle_count": 129,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -187,6 +187,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/08a2e8c31669.html",
       "condition": "new",
       "price": 41869.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2026 Eclipse Cross SE S-AWC",
+      "vin": "JA4ATVAA6TZ617137",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/690f0bfb2891.html",
+      "condition": "new",
+      "price": 35459.0,
       "price_currency": "CAD"
     },
     {
@@ -507,6 +515,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/43046b35d279.html",
       "condition": "new",
       "price": 49150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2026 Outlander Plug-in Hybrid ES S-AWC",
+      "vin": "JA4T5UA9XTZ622263",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/cc5009b11259.html",
+      "condition": "new",
+      "price": 50143.0,
       "price_currency": "CAD"
     },
     {
