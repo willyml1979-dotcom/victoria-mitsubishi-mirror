@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Mitsubishi",
-  "generated_at": "2026-10-26T09:48:34",
-  "vehicle_count": 129,
+  "generated_at": "2026-11-17T11:11:22",
+  "vehicle_count": 114,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,14 +46,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 RVR NOIR AWC",
-      "vin": "JA4AJVAWXTU602672",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/8bbac7907bb3.html",
-      "condition": "new",
-      "price": 35209.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 RVR GT AWC",
       "vin": "JA4AJVAW5TU602711",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/19d69380d13d.html",
@@ -70,35 +62,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander ES S-AWC",
-      "vin": "JA4J4UAB0TZ609521",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/3b5d286a84af.html",
-      "condition": "new",
-      "price": 36846.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
       "vin": "JA4T5WA90TZ608495",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/c310d0d1e01b.html",
       "condition": "new",
       "price": 64598.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid SE S-AWC",
-      "vin": "JA4T5VA93TZ607819",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/a38d53fd97a5.html",
-      "condition": "new",
-      "price": 55498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid SE S-AWC",
-      "vin": "JA4T5VA90TZ610208",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/72b28b599bfc.html",
-      "condition": "new",
-      "price": 55498.0,
       "price_currency": "CAD"
     },
     {
@@ -147,38 +115,6 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/74b054b8b8d2.html",
       "condition": "new",
       "price": 46146.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 RVR ES FWD",
-      "vin": "JA4AHUAU8TU604697",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/ce061d5f73be.html",
-      "condition": "new",
-      "price": 27328.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 RVR ES FWD",
-      "vin": "JA4AHUAU3TU604736",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/462c02148196.html",
-      "condition": "new",
-      "price": 27328.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Eclipse Cross SE S-AWC",
-      "vin": "JA4ATVAA2TZ619208",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/b8f6a27702c6.html",
-      "condition": "new",
-      "price": 35009.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander SE S-AWC",
-      "vin": "JA4J4VAB6TZ618195",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/5ab52bf6c83a.html",
-      "condition": "new",
-      "price": 39546.0,
       "price_currency": "CAD"
     },
     {
@@ -314,7 +250,7 @@
       "vin": "JA4ATUAA6TZ621456",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/094aa1620e9b.html",
       "condition": "new",
-      "price": 31509.0,
+      "price": 30347.0,
       "price_currency": "CAD"
     },
     {
@@ -322,7 +258,7 @@
       "vin": "JA4J4VAB1TZ621439",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/d12a1032e988.html",
       "condition": "new",
-      "price": 45996.0,
+      "price": 44035.0,
       "price_currency": "CAD"
     },
     {
@@ -330,7 +266,7 @@
       "vin": "JA4ATVAA9TZ621506",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/5a6aa5bef817.html",
       "condition": "new",
-      "price": 35459.0,
+      "price": 34055.0,
       "price_currency": "CAD"
     },
     {
@@ -338,7 +274,7 @@
       "vin": "JA4ATVAA3TZ621338",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/2ef7ac01ccba.html",
       "condition": "new",
-      "price": 35309.0,
+      "price": 33905.0,
       "price_currency": "CAD"
     },
     {
@@ -346,7 +282,7 @@
       "vin": "JA4J4VAB1TZ622073",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/3c4e6d7f1db7.html",
       "condition": "new",
-      "price": 45687.0,
+      "price": 43726.0,
       "price_currency": "CAD"
     },
     {
@@ -354,7 +290,7 @@
       "vin": "JA4J4VAB7TZ622112",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/ab0c6c6c12e7.html",
       "condition": "new",
-      "price": 45987.0,
+      "price": 44026.0,
       "price_currency": "CAD"
     },
     {
@@ -362,7 +298,7 @@
       "vin": "JA4J4VAB3TZ621765",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/60c8d524c96f.html",
       "condition": "new",
-      "price": 45987.0,
+      "price": 44026.0,
       "price_currency": "CAD"
     },
     {
@@ -370,7 +306,7 @@
       "vin": "JA4T5WA98TZ624377",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/0b28e02047dd.html",
       "condition": "new",
-      "price": 65033.0,
+      "price": 58969.0,
       "price_currency": "CAD"
     },
     {
@@ -378,7 +314,7 @@
       "vin": "JA4T5WA91TZ624494",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/3129aede8e81.html",
       "condition": "new",
-      "price": 64583.0,
+      "price": 58519.0,
       "price_currency": "CAD"
     },
     {
@@ -386,7 +322,7 @@
       "vin": "JA4T5VA98TZ624809",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/f525e7457d32.html",
       "condition": "new",
-      "price": 60470.0,
+      "price": 54629.0,
       "price_currency": "CAD"
     },
     {
@@ -394,7 +330,7 @@
       "vin": "JA4J4VAB7TZ623261",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/5acba50a59e8.html",
       "condition": "new",
-      "price": 45537.0,
+      "price": 43576.0,
       "price_currency": "CAD"
     },
     {
@@ -402,7 +338,7 @@
       "vin": "JA4T5UA91TZ622264",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/9110f1ecd7b2.html",
       "condition": "new",
-      "price": 50143.0,
+      "price": 51036.0,
       "price_currency": "CAD"
     },
     {
@@ -410,7 +346,7 @@
       "vin": "JA4T5VA92TZ623915",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/095ea5c50fb1.html",
       "condition": "new",
-      "price": 60920.0,
+      "price": 55079.0,
       "price_currency": "CAD"
     },
     {
@@ -418,7 +354,7 @@
       "vin": "JA4T5WA93TZ624156",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/04dc995b0be5.html",
       "condition": "new",
-      "price": 65033.0,
+      "price": 58969.0,
       "price_currency": "CAD"
     },
     {
@@ -443,14 +379,6 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/fc1425faa217.html",
       "condition": "new",
       "price": 48700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander GT S-AWC",
-      "vin": "JA4J4WAB9TZ620108",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/e735da50b1a8.html",
-      "condition": "new",
-      "price": 49600.0,
       "price_currency": "CAD"
     },
     {
@@ -491,14 +419,6 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/c55e0c397d1a.html",
       "condition": "new",
       "price": 49150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
-      "vin": "JA4T5WA96TZ623020",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/265cb2e9aa4f.html",
-      "condition": "new",
-      "price": 65033.0,
       "price_currency": "CAD"
     },
     {
@@ -555,14 +475,6 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/baefcdc29cc4.html",
       "condition": "new",
       "price": 64133.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid ES S-AWC",
-      "vin": "JA4T5UA96TZ626407",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/66b96fc66bb8.html",
-      "condition": "new",
-      "price": 49693.0,
       "price_currency": "CAD"
     },
     {
@@ -623,14 +535,6 @@
     },
     {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
-      "vin": "JA4T5WA93TZ625808",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/bb8c83554a94.html",
-      "condition": "new",
-      "price": 65033.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
       "vin": "JA4T5WA97TZ625875",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/0c852f05dd6e.html",
       "condition": "new",
@@ -662,30 +566,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid LE S-AWC",
-      "vin": "JA4T5VA97TZ625353",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/560a8867a90a.html",
-      "condition": "new",
-      "price": 58120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT NOIR S-AWC",
-      "vin": "JA4T5WA95TZ627981",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/debeff9a75ca.html",
-      "condition": "new",
-      "price": 66415.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT NOIR S-AWC",
-      "vin": "JA4T5WA90TZ627919",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/e871c46a0bed.html",
-      "condition": "new",
-      "price": 65965.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT PREMIUM S-AWC",
       "vin": "JA4T5WA91TZ628013",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/5f10b43b2847.html",
@@ -694,19 +574,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT PREMIUM S-AWC",
-      "vin": "JA4T5WA97TZ627920",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/a16703bd4fa9.html",
+      "name": "Mitsubishi2026 Outlander Plug-in Hybrid SEL S-AWC",
+      "vin": "JA4T5VA93TZ628153",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/e9b8fb112a51.html",
       "condition": "new",
-      "price": 66133.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
-      "vin": "JA4T5WA94TZ627440",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/1b97821344a0.html",
-      "condition": "new",
-      "price": 64583.0,
+      "price": 55079.0,
       "price_currency": "CAD"
     },
     {
@@ -718,27 +590,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid SEL S-AWC",
-      "vin": "JA4T5VA92TZ627608",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/8a1e18ddd6d1.html",
-      "condition": "new",
-      "price": 60920.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
       "vin": "JA4T5WA96TZ628041",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/dceab17f7147.html",
       "condition": "new",
       "price": 65033.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
-      "vin": "JA4T5WA94TZ627468",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/63dab6d6e857.html",
-      "condition": "new",
-      "price": 64583.0,
       "price_currency": "CAD"
     },
     {
@@ -818,7 +674,7 @@
       "vin": "JA4T5WA97TZ625505",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/a8a46d378670.html",
       "condition": "new",
-      "price": 64583.0,
+      "price": 58519.0,
       "price_currency": "CAD"
     },
     {
@@ -854,22 +710,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT NOIR S-AWC",
-      "vin": "JA4T5WA95TZ629231",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/ec327d872622.html",
-      "condition": "new",
-      "price": 66415.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid SE S-AWC",
-      "vin": "JA4T5VA94TZ628792",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/00fd58a1f3af.html",
-      "condition": "new",
-      "price": 55122.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid SEL S-AWC",
       "vin": "JA4T5VA94TZ628775",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/da4e04ffb84a.html",
@@ -878,19 +718,59 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT NOIR S-AWC",
-      "vin": "JA4T5WA98TZ628607",
-      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/b694eb93baec.html",
-      "condition": "new",
-      "price": 66415.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT PREMIUM S-AWC",
       "vin": "JA4T5WA99TZ628809",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/737586927a17.html",
       "condition": "new",
       "price": 65683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Eclipse Sportback EV",
+      "vin": "JN1MZ2HB2VM401836",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/c678e9c74d73.html",
+      "condition": "new",
+      "price": 52004.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Eclipse Sportback EV Tech Pkg",
+      "vin": "JN1MZ2HBXVM401342",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/0ee0c29011fb.html",
+      "condition": "new",
+      "price": 56804.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Outlander SEL S-AWC",
+      "vin": "JA4J4VAB3VZ601356",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/d111a79fc461.html",
+      "condition": "new",
+      "price": 49400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Eclipse Sportback EV",
+      "vin": "JN1MZ2HBXVM401874",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/8f27560b3ebe.html",
+      "condition": "new",
+      "price": 52004.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Eclipse Sportback EV",
+      "vin": "JN1MZ2HB6VM402052",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/a817b43e001a.html",
+      "condition": "new",
+      "price": 51704.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi2027 Outlander GT NOIR S-AWC",
+      "vin": "JA4J4WAB2VZ601175",
+      "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/27e27f8fdbce.html",
+      "condition": "new",
+      "price": 54324.0,
       "price_currency": "CAD"
     },
     {
