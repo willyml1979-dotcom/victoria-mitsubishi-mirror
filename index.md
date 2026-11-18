@@ -1,6 +1,6 @@
 # Victoria Mitsubishi
 
- dealership in Victoria. AI-readable inventory mirror, about 122 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 123 vehicles.
 
 - Official website: https://www.victoriamitsubishi.ca/en
 - Used vehicles: https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/used/
