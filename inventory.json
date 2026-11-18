@@ -1,6 +1,6 @@
 {
   "dealership": "Victoria Mitsubishi",
-  "generated_at": "2026-11-18T02:49:43",
+  "generated_at": "2026-11-18T11:02:51",
   "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -450,7 +450,7 @@
       "vin": "JA4T5UA90TZ626385",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/646de45e3d82.html",
       "condition": "new",
-      "price": 49843.0,
+      "price": 50736.0,
       "price_currency": "CAD"
     },
     {
@@ -490,7 +490,7 @@
       "vin": "JA4T5VA99TZ626035",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/08ef5004145b.html",
       "condition": "new",
-      "price": 60920.0,
+      "price": 55079.0,
       "price_currency": "CAD"
     },
     {
@@ -506,7 +506,7 @@
       "vin": "JA4T5WA99TZ625375",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/62dff9d49aee.html",
       "condition": "new",
-      "price": 65683.0,
+      "price": 59498.0,
       "price_currency": "CAD"
     },
     {
@@ -514,15 +514,15 @@
       "vin": "JA4T5UA94TZ626499",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/3656798c6f0e.html",
       "condition": "new",
-      "price": 49843.0,
+      "price": 50736.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT NOIR S-AWC",
+      "name": "Mitsubishi2026 Outlander Plug-in Hybrid GT S-AWC",
       "vin": "JA4T5WA94TZ625929",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/1407436d2fa0.html",
       "condition": "new",
-      "price": 65965.0,
+      "price": 59901.0,
       "price_currency": "CAD"
     },
     {
@@ -530,7 +530,7 @@
       "vin": "JA4T5WA92TZ625489",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/af0c4f04a6a8.html",
       "condition": "new",
-      "price": 64283.0,
+      "price": 58219.0,
       "price_currency": "CAD"
     },
     {
@@ -538,7 +538,7 @@
       "vin": "JA4T5WA97TZ625875",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/0c852f05dd6e.html",
       "condition": "new",
-      "price": 65033.0,
+      "price": 58969.0,
       "price_currency": "CAD"
     },
     {
@@ -554,7 +554,7 @@
       "vin": "JA4T5WA9XTZ625370",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/7841f1d32afa.html",
       "condition": "new",
-      "price": 64283.0,
+      "price": 58219.0,
       "price_currency": "CAD"
     },
     {
@@ -562,7 +562,7 @@
       "vin": "JA4T5WA99TZ625442",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/c1c54c3aa164.html",
       "condition": "new",
-      "price": 66133.0,
+      "price": 59948.0,
       "price_currency": "CAD"
     },
     {
@@ -570,7 +570,7 @@
       "vin": "JA4T5WA91TZ628013",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/5f10b43b2847.html",
       "condition": "new",
-      "price": 66133.0,
+      "price": 59948.0,
       "price_currency": "CAD"
     },
     {
@@ -594,7 +594,7 @@
       "vin": "JA4T5WA96TZ628041",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/dceab17f7147.html",
       "condition": "new",
-      "price": 65033.0,
+      "price": 58969.0,
       "price_currency": "CAD"
     },
     {
@@ -602,7 +602,7 @@
       "vin": "JA4AJVAWXVU601234",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/346126f44983.html",
       "condition": "new",
-      "price": 32432.0,
+      "price": 30448.0,
       "price_currency": "CAD"
     },
     {
@@ -610,7 +610,7 @@
       "vin": "JA4AJVAWXVU601153",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/ddfe412b15f6.html",
       "condition": "new",
-      "price": 35500.0,
+      "price": 33350.0,
       "price_currency": "CAD"
     },
     {
@@ -618,7 +618,7 @@
       "vin": "JA4AHUAU3VU600785",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/687239cbeec4.html",
       "condition": "new",
-      "price": 27782.0,
+      "price": 26393.0,
       "price_currency": "CAD"
     },
     {
@@ -626,7 +626,7 @@
       "vin": "JA4AHUAU1VU600638",
       "url": "https://willyml1979-dotcom.github.io/victoria-mitsubishi-mirror/new/864ea5b643ad.html",
       "condition": "new",
-      "price": 27932.0,
+      "price": 26543.0,
       "price_currency": "CAD"
     },
     {
